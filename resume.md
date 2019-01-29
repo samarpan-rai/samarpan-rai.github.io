@@ -22,11 +22,12 @@ Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse pl
 **Title** - Description - Place <span style="float: right; ">Time span</span>
 Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique. -->
 
+
 ### EXPERIENCE
 
 ##### This is list of my last three employments
 
-_Data scientist_ - **[GooHoo](https://www.goohoo.nl/)** <span style="float: right; ">Nov 2018 - Present</span>
+**Data Scientist** - **[GooHoo](https://www.goohoo.nl/)** <span style="float: right; ">Nov 2018 - Present</span>
 
 <p>
 
@@ -42,7 +43,7 @@ At GooHoo I have the freedom to create my own goal and schedule. Therefore, I ha
 Technologies used : R, Python, Shiny, Docker, AWS
 
 
-_Product Manager_ - **[EyeSense](https://www.eye-sense.com/)** <span style="float: right; ">Feb 2018 - Aug 2018 (7 mos)</span>
+**Product Manager** - **[EyeSense](https://www.eye-sense.com/)** <span style="float: right; ">Feb 2018 - Aug 2018 (7 mos)</span>
 <p>
 This internship was a unique experience for me because my target clients were blind or visually impaired. This demanded me to think about solutions in creative manner. For example a simple side bar menu is not a side bar at all. My day to day task at EyeSense revolved around the following points:
 
@@ -54,37 +55,36 @@ This internship was a unique experience for me because my target clients were bl
 Technologies used : Google analytics, Automated emails with Mailgun, Bitly
 
 
-_Social Media Amabassador_ - **[Radboud University](https://www.ru.nl/)** <span style="float: right; ">Mar 2017 - Aug 2018 (6 mos)</span>
+**Social Media Amabassador** - **[Radboud University](https://www.ru.nl/)** <span style="float: right; ">Mar 2017 - Aug 2018 (6 mos)</span>
 
 <p>
 1. Creating social media content to show various aspects of university life for prospective international students
 2. Scheduling and publishing various contents throughout the year to ensure a proper flow of content
 3. Analyze feedback from various social media outlet (Facebook, email, face-to-face) and incorporate them to future plans
 Engage with prospective students to reply their queries
+</p>
+
+
+
+### EDUCATION
+
+**Radboud University**, Njmegen <span style="float: right; ">2016-Present</span> <br />
+*Bachelors of Sc. Artificial Intelligence*
 <p>
+Intensive bachelors study that combines Psyschology, Cognitive Science, Computer Science and Mathematics together to mold a holistic approach to Artificial Intelligence. Along with building Neural Networks, I was asked to question the ethical perspecitve of AI to our modern society.
+</p>
 
-<!-- ### EDUCATION
-
-Institute <span style="float: right; ">Duration</span>
-**Course**
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.
-
-Institute <span style="float: right; ">Duration</span>
-**Course**
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.
-
-Institute <span style="float: right; ">Duration</span>
-**Course**
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit. -->
+**American University of Paris**, Paris  <span style="float: right; ">2015-2016</span>
+*Bachelors of Sc. Computer Science*
+<p>
+A short year where I learnt that pure Computer Science is not my thing.
+</p>
 
 
 
-
-<!-- ### RECOGNITION & INTERESTS
-
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus. -->
+### Language
+Nepali : Native <br />
+Hindi : Native <br />
+English : Almost native <br />
+Dutch : Intermediate <br />
+French : Basic <br />
