@@ -1,15 +1,14 @@
 # Site settings
-title: {code?}
+title: खुसी
 description: >
-
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://samarpan.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: Samarpan Rai
-  github: github
-  linkedin: https://www.linkedin.com/in/samarpan-rai/
+  github: greenspray
+  linkedin: samarpan-rai
   email: samarpan@live.com
 
 
