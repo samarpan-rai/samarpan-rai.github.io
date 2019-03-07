@@ -5,6 +5,7 @@ description: खाना खायौ?
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://samarpan.github.io" # the base hostname & protocol for your site
 
+
 author:
   fullname: Samarpan Rai
   github: greenspray
@@ -20,3 +21,13 @@ styles: [agate, androidstudio, arta, asceti, atelier-cave.dark, atelier-cave.lig
 # Build settings
 highlighter: null
 markdown: kramdown
+
+
+source: .
+destination: _site
+exclude:
+- Gemfile
+- Gemfile.lock
+include: ['.htaccess']
+
+permalink: pretty # /:categories/:year/:month/:day/:title/

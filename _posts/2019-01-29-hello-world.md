@@ -7,4 +7,4 @@ categories: ["general"]
 ---
 
 ## Hello world!
-### More to follow soon!
+More to follow soon!
