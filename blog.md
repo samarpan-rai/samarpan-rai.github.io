@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-subtitle: Select ramblings of Samaparpan
+subtitle: Select ramblings of Samarpan
 ---
 
 <div>
