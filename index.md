@@ -1,13 +1,16 @@
 ---
 layout: page
-title: Welcome
-subtitle: Thank you for your interest
+title: Welcome!
+subtitle:
 sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/personal_logo.png' | prepend: site.baseurl }}" id="about-img">
+<link rel='stylesheet' href='http://xkcd-embedder.fahmidur.us/css/xkcd-embedder.css'/>
 
 <div id="describe-text"  >
-
+<div class='xkcd-embed' data-id='random'></div>
 </div>
+
+
+<script src='http://xkcd-embedder.fahmidur.us/js/xkcd-embedder.js'></script>
