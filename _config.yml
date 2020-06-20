@@ -31,3 +31,8 @@ exclude:
 include: ['.htaccess']
 
 permalink: pretty # /:categories/:year/:month/:day/:title/
+
+atom:
+  buildCommand:
+    - jekyll
+    - build

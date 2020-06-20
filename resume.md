@@ -10,13 +10,15 @@ subtitle:
 ### Personal statement
 Studying bachelors of Artificial Intelligence (BsC) at Radboud university in the Netherlands.  Past life, engineer with experience in electronics/electrical  and Web development.
 
-Worked in projects ranging from embedded circuit development for a creative agency in Kathmandu(Nepal), API Developer for a startup company in Paris (France), Social Media Manager for Radboud University (Netherlands) to Product Manager for startup company in Nijmegen (Netherlands) and currently working as Data Scientist (Netherlands).
+Worked in projects ranging from embedded circuit development for a creative agency in Kathmandu(Nepal), API Developer for a startup company in Paris (France), Social Media Manager for Radboud University (Netherlands) to Product Manager for startup company in Nijmegen (Netherlands). I have a diverse background so that is what I bring to the table when solving problems.
 
 
 ### EXPERIENCE
 
+**A.I Engineer** - **[Vartion](https://vartion.com/){:target="_blank"}** <span style="float: right; ">May 2020 - Present </span>
 
-**Data Scientist** - **[GooHoo](https://www.goohoo.nl/){:target="_blank"}** <span style="float: right; ">Nov 2018 - Present</span>
+
+**Data Scientist** - **[GooHoo](https://www.goohoo.nl/){:target="_blank"}** <span style="float: right; ">Nov 2018 - Apr 2020</span>
 
 My job as Data Scientist at GooHoo is quite open-ended. Being a fairly new young company from the perspective of Data Science, I am responsible for laying out the architecture needed for all processes. However, I am still a student so by researching the best-practices around Data Science, my task now revolves around the following points:
 
