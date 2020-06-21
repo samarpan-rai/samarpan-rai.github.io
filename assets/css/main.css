@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* =Base *//*************************************************************/
   body {
-    font-family: 'Quicksand', sans-serif;  
+    font-family: 'Quicksand', sans-serif;
     font-size: 100%;
     color: #012;
     background-color: #FFF; }
@@ -439,3 +439,9 @@
   /* Custom */
   .go-home {
     text-align: center; }
+
+.scrollable {
+
+
+  overflow: auto;
+}
