@@ -30,7 +30,7 @@ $(document).ready(function() {
           type : 'GET',
           dataType: 'json',
           crossDomain:true,
-          url:"http://35.214.174.105/predict/",
+          url:"http://35.214.174.105:8080/predict/",
           data : {text : text_to_infer},
           success: function(response){
             if (response['msg']=='success'){
