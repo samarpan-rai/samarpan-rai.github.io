@@ -28,7 +28,7 @@ $(document).ready(function() {
         spinner.show();
         $.ajax({
           type : 'GET',
-          dataType: 'jsonp',
+          dataType: 'json',
           crossDomain:true,
           url:"http://35.214.174.105:8080/predict/",
           data : {text : text_to_infer},

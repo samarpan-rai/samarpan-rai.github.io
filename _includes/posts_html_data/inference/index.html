@@ -1,76 +1,38 @@
-<!DOCTYPE html>
 <html lang="en">
-
 <head>
-
-  <!-- Basic Page Needs
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
-  <title>Inference</title>
-  <meta name="description" content="">
-  <meta name="author" content="Samarpan Rai">
-
-  <!-- Mobile Specific Metas
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <!-- FONT
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
-
-  <!-- CSS
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link rel="stylesheet" href="css/normalize.css">
-  <link rel="stylesheet" href="css/skeleton.css">
-  <link rel="stylesheet" href="css/custom.css">
-  <!-- Favicon
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link rel="icon" type="image/png" href="images/favicon.png">
-
-  <!-- Javascript -->
-
-  <script src="js/jquery-3.5.1.min.js"></script>
-  <script src="js/handle_input.js"> </script>
+  <link rel="stylesheet" href="/assets/css/normalize.css">
+  <link rel="stylesheet" href="/assets/css/skeleton.css">
+  <link rel="stylesheet" href="/assets/css/custom.css">
+  <link rel="icon" type="image/png" href="/assets/img/favicon.png">
+  <script src="/assets/js/jquery-3.5.1.min.js"></script>
+  <script src="/assets/js/handle_input.js"> </script>
 </head>
-
 <body>
-
-  <!-- Primary Page Layout
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <div class="container">
     <div class="row">
       <div class="one-half column" style="margin-top: 25%">
         <h3>Is het de of het?</h3>
-        <p>Je kunnen het zin in de box typen en de model beantwoord u.</a>.</p>
+        <p>Je kunnen het zin in de box typen en de model beantwoord u.</p>
       </div>
     </div>
     <div class="row">
       <div class="six columns">
         <div id="loader"></div>
         <form id="request_inference">
-
-          <label for="zinnen">
-            <h5>Zinnen</h4>
-          </label>
           <textarea class="u-full-width" placeholder="Mijn zin is.." id="sentences"></textarea>
           <input class="button-primary" type="submit" value="Submit">
         </form>
       </div>
     </div>
     <div class="row">
-      <div class="six columns ">
+      <div class="six columns">
         <h4> Resultaat </h4>
-        <div id="predicitions">
-          <!-- <h5> <span class="step">50</span>% kans : <mark>de</mark> woord </h5>
-          <h5> <span class="step">50</span>% kans : <mark>de</mark> woord </h5> -->
-        </div>
+        <div id="predicitions"></div>
       </div>
     </div>
-
-
-
-    <!-- End Document
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  </div>
 </body>
-
 </html>
