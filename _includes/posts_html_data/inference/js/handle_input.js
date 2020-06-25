@@ -12,7 +12,6 @@ $(document).ready(function() {
     }
   })
 
-  var spinner = $('#loader');
 
   $( "#request_inference").on("submit",function(e){
     e.preventDefault();
@@ -23,9 +22,8 @@ $(document).ready(function() {
     var text_to_infer = $('textarea#sentences').val();
     if (text_to_infer.length>2){
 
-        console.log("Recieved :"+text_to_infer);
         html_output = "";
-        spinner.show();
+
         $.ajax({
           type : 'GET',
           dataType: 'jsonp',
@@ -55,12 +53,11 @@ $(document).ready(function() {
 
           },
           error : function(xhr){
+
             alert("An error occured: " + xhr.status + " " + xhr.statusText);
           }
          }
-        ).done(function() {
-            spinner.hide();
-        });
+       );
     }
 
 
