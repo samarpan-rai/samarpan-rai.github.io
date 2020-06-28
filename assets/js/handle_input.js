@@ -6,17 +6,17 @@ function getColor(value) {
 
 $(document).ready(function() {
 
+
+
   $('form').keydown(function(event) {
     if (event.ctrlKey && event.keyCode === 13) {
       $(this).trigger('submit');
     }
   })
 
-  var spinner = $('#loader');
-
   $( "#request_inference").on("submit",function(e){
-    e.preventDefault();
 
+    e.preventDefault();
   //do something
 
     // alert("Clicked");
@@ -25,7 +25,6 @@ $(document).ready(function() {
 
         console.log("Recieved :"+text_to_infer);
         html_output = "";
-        spinner.show();
         $.ajax({
           type : 'GET',
           dataType: 'json',
@@ -58,9 +57,7 @@ $(document).ready(function() {
             alert("An error occured: " + xhr.status + " " + xhr.statusText);
           }
          }
-        ).done(function() {
-            spinner.hide();
-        });
+        )
     }
 
 
