@@ -48,7 +48,7 @@ $(document).ready(function() {
             )
 
           }else{
-            html_output = '<b>'+response['detail']+'</b>'
+            html_output = '<p style="color:red">'+response['detail']+'</p>'
           }
           $('#predicitions').html(html_output)
 
