@@ -5,6 +5,8 @@ description: Recording my learnings
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://samarpan.github.io/resume" # the base hostname & protocol for your site
 
+plugins:
+  - jekyll-seo-tag
 
 author:
   fullname: Samarpan Rai
