@@ -29,7 +29,7 @@ $(document).ready(function() {
           type : 'GET',
           dataType: 'json',
           crossDomain:true,
-          url:"https://canyoubeatfakenews.nl/predict/",
+          url:"https://api.s-rai.com/de-het/predict/",
           data : {text : text_to_infer},
           success: function(response){
             if (response['msg']=='success'){
