@@ -8,6 +8,10 @@ url: "https://samarpan.github.io/resume" # the base hostname & protocol for your
 plugins:
   - jekyll-seo-tag
 
+sass:
+  sass_dir: _sass
+  style: compressed
+
 author:
   fullname: Samarpan Rai
   github: samarpan-rai
@@ -26,6 +30,7 @@ markdown: kramdown
 
 
 source: .
+
 destination: _site
 exclude:
 - Gemfile
