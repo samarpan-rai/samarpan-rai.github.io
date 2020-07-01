@@ -2,6 +2,14 @@
 ---
 
 @charset "UTF-8";
+
+.circularimage {
+  border-radius: 50%;
+  padding-right: 20px ;
+  float : right;
+  height: 200px;
+  width: 200px;
+}
 /* =Base *//*************************************************************/
   body {
     font-family: 'Quicksand', sans-serif;
