@@ -2,6 +2,7 @@
 layout: page
 title: "How I (accidentally) got job as a Data Scientist?"
 date: "2019-04-29 18:18:55 +0200"
+description : This story talks about how writing a good cover letter about your experience can help your career during job application.
 categories: ["data-science"]
 ---
 I love living in the Netherlands. It is well organized and oh boy, have you seen their bike lanes? Everything seems fine but wait until you are a non-EU student who wants to work.

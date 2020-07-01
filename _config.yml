@@ -1,6 +1,6 @@
 # Site settings
 title: Samarpan Rai
-description: Learning outside the box.I yearn to learn new thing every day by building software and experimenting with ideas that interests me. This is the place where I try to record those learnings.
+description: 
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://s-rai.com" # the base hostname & protocol for your site

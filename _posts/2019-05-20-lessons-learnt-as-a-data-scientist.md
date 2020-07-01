@@ -2,6 +2,7 @@
 layout: page
 title: "Lesson learnt as a Data Scientist"
 subtitle : "Few tips and suggestion for aspiring data scientists"
+description : Tips and tricks for aspiring data scientist and try to answer question like, Should you learn Python or R? Should you choose black box or interpretable model?  
 date: "2019-05-20 13:15:55 +0200"
 categories: ["data-science"]
 ---

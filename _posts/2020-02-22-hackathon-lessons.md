@@ -2,6 +2,7 @@
 layout: page
 title:  "3 tips to improve your next Data Science Hackathon performance"
 subtitle: "Lessons learnt from hackathons"
+description : I love hackathons because they are fun and intense events but sadly I have never won one. In this blog, I share some of my reflects from the past hackathons.
 date:   2020-02-22 08:56 +0100
 categories: ["data-science"]
 ---
