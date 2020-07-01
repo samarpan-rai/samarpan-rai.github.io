@@ -4,6 +4,7 @@ title: Résumé
 subtitle:
 ---
 
+
 <span style="float: right; "><a href="{{ '/assets/SamarpanRai_CV.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
