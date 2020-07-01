@@ -5,10 +5,12 @@ subtitle : "Few tips and suggestion for aspiring data scientists"
 description : Tips and tricks for aspiring data scientist and try to answer question like, Should you learn Python or R? Should you choose black box or interpretable model?  
 date: "2019-05-20 13:15:55 +0200"
 categories: ["data-science"]
+schemadotorg:
+   keywords: ["ml","datascience","A.I","ai","dynamic pricing","python","R","tidyverse","XAI"]
 ---
 ## Introduction
 
-Approximately six months ago I started working as a part-time Data scientist for a small online retail company. They asked me to build a system that helps them dynamically price their products. The most obvious approach is to just run some model in the past price data and predict the future for the most optimum price. But in reality, it is not that simple. This type problem is called time-series forecasting and still remains one of the difficult Machine Learning problem. The reason is there are too many hidden variables that could tip-off the prediction.
+Approximately six months ago I started working as a part-time Data scientist for a small online retail company to perform some pricing magic. My  approach was to just run some model in the past price data and predict the future for the most optimum price. But in reality, it is not that simple. This type problem is called time-series forecasting and still remains one of the difficult Machine Learning problem. The reason is there are too many hidden variables that could tip-off the prediction.
 
 So in order to not overwhelm myself with complexity I took the ‘agile’ approach of incremental prototyping. Trying to break down the problem into usable bits of product.
 

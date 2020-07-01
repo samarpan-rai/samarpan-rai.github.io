@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Samarpan's home
+title: Samarpan's home page
 subtitle:
 description : My area of interests are Artificial intelligence, web development and hardware development. Researching and implementing cutting edge A.I algorithms.
 sitemap:
   priority: 0.9
+schemadotorg:
+  keywords: ["ml","datascience","A.I","ai","introduction", "job","career"]
 ---
 ### Hi! // नमस्ते! // Welkom!
 

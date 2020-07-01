@@ -1,6 +1,17 @@
 # Site settings
 title: Samarpan Rai
-description: 
+description:
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      schemadotorg:
+        "@context": http://schema.org/
+        "@type": CreativeWork
+        author: ["Samarpan Rai"]
+        license: CC-BY 4.0
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://s-rai.com" # the base hostname & protocol for your site
