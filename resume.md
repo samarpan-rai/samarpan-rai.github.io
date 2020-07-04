@@ -73,10 +73,10 @@ Two years of rigorous Baccalaureate course that incorporates subjects like CAS a
 
 ### Volunteering
 
-**CoderDojo**, Njmegen <span style="float: right; ">2018-Present</span> <br />
+**CoderDojo**, Njmegen <span style="float: right; ">July 2018 - May 2019</span> <br />
 *Mentor*
 
-Every first Sunday of the month, I mentor teach kids between the ages of 7 and 16 during the coderdojo sessions.
+Every first Sunday of the month, I try to occasionally mentor teach kids between the ages of 7 and 16 during the coderdojo sessions but due to my poor dutch level I couldn't contribute as much as I wanted to
 
 
 **HimalayanDisaster**, Kathmandu  <span style="float: right; ">2014</span>  <br />
@@ -87,8 +87,8 @@ We created a data collection and visualization platform to keep track of these r
  The system is is fully open source and can be found in [github](https://github.com/mshrestha/himalayandisaster){:target="_blank"}.
 
 ### Language
+
 Nepali : Native <br />
 Hindi : Native <br />
 English : Almost native <br />
 Dutch : Basic <br />
-French : Basic <br />
