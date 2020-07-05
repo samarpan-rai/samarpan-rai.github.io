@@ -1,7 +1,7 @@
 <header class="header">
 <div class="navigation">
 <a href="{{ '/' | prepend: site.baseurl }}" class="logo">
-  <img src="{{ '/assets/img/personal_logo.png' | prepend: site.baseurl }}" id="about-img">
+  <img src="{{ '/assets/img/personal_logo.png' | prepend: site.baseurl }}" alt = "Personal logo" id="about-img">
 </a>
 
 <ul class="menu">
@@ -16,12 +16,12 @@
 </a>
 {% endif %}
 {% if site.author.github %}
-<a href="https://github.com/{{ site.author.github }}" class="social-links__entry" target="_blank">
+<a href="https://github.com/{{ site.author.github }}" rel="noopener" class="social-links__entry" target="_blank">
 <i class="fa fa-github"></i>
 </a>
 {% endif %}
 {% if site.author.linkedin %}
-<a href="https://in.linkedin.com/in/{{ site.author.linkedin }}" class="social-links__entry" target="_blank">
+<a href="https://in.linkedin.com/in/{{ site.author.linkedin }}" rel="noopener" class="social-links__entry" target="_blank">
 <i class="fa fa-linkedin"></i>
 </a>
 {% endif %}
