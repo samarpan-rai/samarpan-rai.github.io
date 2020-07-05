@@ -2,6 +2,8 @@
 layout: page
 title: Blog
 subtitle: Select ramblings of Samarpan
+schemadotorg:
+   keywords: ["blog","ml","nlp","datascience","A.I","ai", "dutch", "nlp", "spacy"]
 ---
 
 <div>

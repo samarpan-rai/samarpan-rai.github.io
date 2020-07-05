@@ -2,6 +2,9 @@
 layout: page
 title: Résumé
 subtitle:
+description : "Samarpan's résumé past work experience with data science and A.I technology and academic life."
+schemadotorg:
+   keywords: ["machinelearning","radboud","university","resume","datascience","A.I","ai","datascience","CV"]
 ---
 
 
@@ -16,10 +19,10 @@ Worked in projects ranging from embedded circuit development for a creative agen
 
 ### EXPERIENCE
 
-**A.I Engineer** - **[Vartion](https://vartion.com/){:target="_blank"}** <span style="float: right; ">May 2020 - Present </span>
+**A.I Engineer** - **[Vartion](https://vartion.com/){:target="_blank" rel="noopener"}** <span style="float: right; ">May 2020 - Present </span>
 
 
-**Data Scientist** - **[GooHoo](https://www.goohoo.nl/){:target="_blank"}** <span style="float: right; ">Nov 2018 - Apr 2020</span>
+**Data Scientist** - **[GooHoo](https://www.goohoo.nl/){:target="_blank" rel="noopener"}** <span style="float: right; ">Nov 2018 - Apr 2020</span>
 
 My job as Data Scientist at GooHoo is quite open-ended. Being a fairly new young company from the perspective of Data Science, I am responsible for laying out the architecture needed for all processes. However, I am still a student so by researching the best-practices around Data Science, my task now revolves around the following points:
 
@@ -31,7 +34,7 @@ My job as Data Scientist at GooHoo is quite open-ended. Being a fairly new young
 
 Technologies used : R, Python, Shiny, Docker, AWS
 
-**Product Manager** - **[EyeSense](https://www.eye-sense.com/){:target="_blank"}** <span style="float: right; ">Feb 2018 - Aug 2018 (7 mos)</span>
+**Product Manager** - **[EyeSense](https://www.eye-sense.com/){:target="_blank" rel="noopener"}** <span style="float: right; ">Feb 2018 - Aug 2018 (7 mos)</span>
 
 This internship was a unique experience for me because my target clients were blind or visually impaired. This demanded me to think about solutions in creative manner. For example a simple sidebar menu is not a sidebar at all. My day to day task at EyeSense revolved around the following points:
 
@@ -46,7 +49,7 @@ Technologies used : Google analytics, Automated emails with Mailgun, Bitly
 
 
 
-**Web Integration Developer** - **[WYND](https://www.wynd.eu/){:target="_blank"}** <span style="float: right; ">Nov 2015 - May 2016 (7 mos)</span>
+**Web Integration Developer** - **[WYND](https://www.wynd.eu/){:target="_blank" rel="noopener"}** <span style="float: right; ">Nov 2015 - May 2016 (7 mos)</span>
 
 My role at WYND was to create a new API framework to communicate with mobile devices. My day to day revolved around the following tasks:
 
@@ -76,7 +79,7 @@ Two years of rigorous Baccalaureate course that incorporates subjects like CAS a
 **CoderDojo**, Njmegen <span style="float: right; ">July 2018 - May 2019</span> <br />
 *Mentor*
 
-Every first Sunday of the month, I try to occasionally mentor teach kids between the ages of 7 and 16 during the coderdojo sessions but due to my poor dutch level I couldn't contribute as much as I wanted to
+Every first Sunday of the month, I try to occasionally mentor teach kids between the ages of 7 and 16 during the coderdojo sessions but due to my poor dutch level I couldn't contribute as much as I wanted to.
 
 
 **HimalayanDisaster**, Kathmandu  <span style="float: right; ">2014</span>  <br />
@@ -84,7 +87,7 @@ Every first Sunday of the month, I try to occasionally mentor teach kids between
 
 After the destructive 7.8M earthquake that hit Nepal on 12th May 2015, relief material being quickly being distributed to the affected villages of Nepal but there was not a system present to keep track of those relief work. These created a problem as there was no way to check the hotspot for relief.
 We created a data collection and visualization platform to keep track of these relief measures. This helped the organizations and volunteering groups of people to take better decisions.
- The system is is fully open source and can be found in [github](https://github.com/mshrestha/himalayandisaster){:target="_blank"}.
+ The system is is fully open source and can be found in [github](https://github.com/mshrestha/himalayandisaster){:target="_blank" rel="noopener"}.
 
 ### Language
 
