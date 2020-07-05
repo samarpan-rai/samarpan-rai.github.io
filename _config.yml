@@ -18,7 +18,7 @@ url: "https://s-rai.com" # the base hostname & protocol for your site
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-compress-images
+
 
 sass:
   sass_dir: _sass
