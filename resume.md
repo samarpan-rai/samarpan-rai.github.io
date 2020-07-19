@@ -21,6 +21,7 @@ Worked in projects ranging from embedded circuit development for a creative agen
 
 **A.I Engineer** - **[Vartion](https://vartion.com/){:target="_blank" rel="noopener"}** <span style="float: right; ">May 2020 - Present </span>
 
+Design and facilitate NLP products for client due diligence.
 
 **Data Scientist** - **[GooHoo](https://www.goohoo.nl/){:target="_blank" rel="noopener"}** <span style="float: right; ">Nov 2018 - Apr 2020</span>
 
@@ -30,7 +31,7 @@ My job as Data Scientist at GooHoo is quite open-ended. Being a fairly new young
 
 * Create data pipelines to process and transform data from diverse sources and prototype dashboards in Shiny to provide actionable business insights.
 
-* On top, build algorithm for dynamically pricing multiple products to maximize revenue
+* On top, attempt to build algorithm for dynamically pricing multiple products to maximize revenue
 
 Technologies used : R, Python, Shiny, Docker, AWS
 
