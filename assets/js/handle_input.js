@@ -6,8 +6,6 @@ function getColor(value) {
 
 $(document).ready(function() {
 
-
-
   $('form').keydown(function(event) {
     if (event.ctrlKey && event.keyCode === 13) {
       $(this).trigger('submit');
