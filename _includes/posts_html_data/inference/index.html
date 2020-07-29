@@ -9,6 +9,7 @@
   <script src="/assets/js/handle_input.js?v={{ site.time | date:'%s' }}"> </script>
 </head>
 <body>
+
   <div class="container">
     <div class="row">
       <div class="twelve column" style="margin-top: 15%">
@@ -18,7 +19,6 @@
     <div class="row">
         <form id="request_inference" >
           <textarea class="u-full-width" required rows="4" autofocus placeholder="Mijn zin is.." id="sentences"></textarea>
-
           <input class="button-primary" type="submit" value="Submit">
         </form>
     </div>
@@ -27,5 +27,6 @@
         <div id="predicitions"></div>
       </div>
     </div>
+    <div class="modal"><!-- Place at bottom of page --></div>
   </div>
 </body>

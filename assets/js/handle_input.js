@@ -4,7 +4,19 @@ function getColor(value) {
   return ["hsl(", hue, ",100%,50%)"].join("");
 }
 
+
 $(document).ready(function() {
+
+  $body = $("body");
+
+  $(document).on({
+      ajaxStart: function() { $body.addClass("loading");    },
+       ajaxStop: function() { $body.removeClass("loading"); }
+  });
+
+   // loadingContainer.ajaxStop(function () {
+   //   loadingContainer.hide();
+   // });
 
   $('form').keydown(function(event) {
     if (event.ctrlKey && event.keyCode === 13) {
