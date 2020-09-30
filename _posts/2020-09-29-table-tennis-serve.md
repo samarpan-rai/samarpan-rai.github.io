@@ -13,11 +13,14 @@ schemadotorg:
 ---
 <script type="text/javascript" async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'></script>
 
-#TL;DR
+
+# TL;DR
 If you served first then you serve every odd round and your opponent serves every even round.
 
 ## Problem
 You are in an intense rally - your opponent is too strong compared to you but you don't want to just give up. You push through each serve and give them hell. But while going down in this deep rabbit hole of emotions and intense focus, I have realized that I forget if it is my turn to serve. Sometimes I have also noticed that my opponent also forgets whose turn it is to serve. I think it is natural because you are so occupied with the thought of trying to win that you forget about the smaller things. This has happened too often to me and I need to find a solution.
+
+{% include lazyload.html image_src="/assets/img/pexels-kripesh-adwani-709134.jpg" image_alt="table-tennis" image_title="Table tennis image" %}
 
 ## Solution
 I know you could just ask the referee whose serve it is but let's assume we don't have a referee.
@@ -65,4 +68,4 @@ The Round column above is actually \\( \frac{Points_{total}}{2} \\) so if \\( P_
 
 ## Conclusion
 
-So next time I am in an intense match, if you started serving then you serve in every odd rounds (calculated by dividing the sum of points by 2). I will try to use this relation and see if I can use it.
+If you started serving then you serve in every odd rounds (calculated by dividing the sum of points by 2) and vice versa.
