@@ -6,7 +6,6 @@
      {{ page.schemadotorg | jsonify }}
   </script>
   {% include meta_tags/base.html %}
-  {% include analytics.html %}
   {% include externals/styling.html %}
 </head>
 <body>
@@ -15,5 +14,6 @@
   {{ content }}
   </div>
   {% include externals/scripting.html %}
+  {% include cookie-consent.html %}
 </body>
 </html>
