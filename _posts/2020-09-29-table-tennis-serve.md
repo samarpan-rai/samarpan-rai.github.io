@@ -65,4 +65,4 @@ The Round column above is actually \\( \frac{Points_{total}}{2} \\) so if \\( P_
 
 ## Conclusion
 
-So next time I am in an intense math, I will try to use this relation and see if I can use it.
+So next time I am in an intense match, if you started serving then you serve in every odd rounds (calculated by dividing the sum of points by 2). I will try to use this relation and see if I can use it.
