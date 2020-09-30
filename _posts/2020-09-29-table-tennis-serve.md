@@ -3,14 +3,19 @@ layout: page
 title:  "Serving in table tennis"
 subtitle: "Whose turn is it to serve now?"
 date:   2019-09-29 16:56 +0100
-description : This is the start of the this blog!
+description : In an intense rally, I tend to forget whose turn is it to serve so this is my attempt to find shortcut using math to solve this.
 categories: ["math"]
 sitemap:
   priority: 0.5
+
+schemadotorg:
+  keywords: ["math","table-tennis"]
 ---
-
-
 <script type="text/javascript" async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'></script>
+
+#TL;DR
+If you served first then you serve every odd round and your opponent serves every even round. 
+
 
 ## Problem
 You are in an intense rally - your opponent is too strong compared to you but you don't want to just give up. You push through each serve and give them hell. But while going down in this deep rabbit hole of emotions and intense focus, I have realized that I forget if it is my turn to serve. Sometimes I have also noticed that my opponent also forgets whose turn it is to serve. I think it is natural because you are so occupied with the thought of trying to win that you forget about the smaller things. This has happened too often to me and I need to find a solution.
