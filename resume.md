@@ -51,7 +51,7 @@ Worked in projects ranging from embedded circuit development for a creative agen
 - Attempt to build algorithm for dynamically pricing multiple products to maximise revenue using AWS’s Sagemaker to regularly train and deploy
   model.
 
-**Web Integration Developer** - **[WYND](https://www.wynd.eu/){:target="\_blank" rel="noopener"}** <span style="float: right; ">Nov 2015 - May 2016 (7 mos)</span>
+**Web Integration Developer** - **[WYND](https://www.wynd.eu/){:target="\_blank" rel="noopener"}** <span style="float: right; ">Nov 2015 - May 2016</span>
 
 - Investigate method to reduce data consumption in POS mobile devices for payment.
 
