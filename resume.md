@@ -18,5 +18,5 @@ schemadotorg:
     ]
 ---
 
-<span style="float: right; "><a href="{{ '/assets/SamarpanRai_CV.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
+<a href="{{ '/assets/SamarpanRai_CV.pdf' | prepend: site.baseurl }}">Download as PDF</a>
 <br>
