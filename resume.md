@@ -21,11 +21,9 @@ schemadotorg:
 <span style="float: right; "><a href="{{ '/assets/SamarpanRai_CV.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
-### Personal statement
+Ever curious to learn something new, I get excited when someone proves me wrong. This means I have learnt something new and I find this the most important skill in life. I want to improve myself 1% every day which means 37% improvement in a year which is much better than trying to push oneself too hard and burning out.
 
-Self-starter and ever curious to learn new things. I like to challenge myself and improve my skill-set. I like working across domain so I will not shy away from a problem.
-
-Worked in projects ranging from embedded circuit development for a creative agency in Kathmandu(Nepal), API Developer for a startup company in Paris (France), Social Media Manager for Radboud University (Netherlands) to Product Manager for startup company in Nijmegen (Netherlands). I have a diverse background so that is what I bring to the table when solving problems.
+When I am not coding, you can find me running trail or playing table tennis at the local gym.
 
 ### EXPERIENCE
 
